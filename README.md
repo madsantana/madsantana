@@ -2,7 +2,7 @@
  
 ## I'm MADSANTANA, aka, Marco Antonio Damaceno!
  
-Devops Systems Administrator, Technology Researcher, Information Security and Cryptography, Biomedicine and Biohacking. Passionate about Codes, Arts, Photography, Cinema, Creative Writing, and Mead!
+DevSecOps Systems Administrator, Phreaking and Hacking Researcher, Cryptography, Biomedicine and Biohacking. Passionate about Codes, Arts, Photography, Cinema, Creative Writing, and Mead!
  
  
 ## About me 
